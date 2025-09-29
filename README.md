@@ -25,7 +25,7 @@ Tools: Microsoft Office, Git/GitHub, VS Code, IntelliJ IDEA, RStudio, Quarto
 * Secured confidential client information such as addresses and credit cards through .gitignore, guaranteeing access to the backend of the e-commerce store was not widely available.
 * Utilized Git and Github for version control, ensuring that the program was secure against localized crashes.
 
-[Encode Justice Digital Toolkit](https://github.com/Kriti-Negi/EncodeJusticeDigitalToolkit) | Researcher | October - November 2023
+[Encode Justice Digital Toolkit](https://kriti-negi.github.io/EncodeJusticeDigitalToolkit/) | Researcher | October - November 2023
 
 * Organized websites and images relevant to AI bias and computer science careers into one accessible toolkit to be used in conjunction with an in-person informational kit.
 * Collaborated within a small team to create a website using React framework, utilizing Github for version control.
