@@ -3,6 +3,12 @@
 I’m a 2nd year Computer Science and Philosophy combined major at Northeastern University. I am interested in responsible AI and software development and would love to work in the field of AI Ethics. I have been programming for 10 years, and have experience in Java, Python, and R. 
 I’m currently looking for a full-time internship from January - June 2026 where I can grow my skills and have a positive impact on the world. 
 
+## Connect with me!
+
+silge.g@northeastern.edu 
+
+[LinkedIn](https://www.linkedin.com/in/grace-silge/)
+
 ## Technical Knowledge
 Programming Languages:  Java, Python, Kotlin, R
 
@@ -57,10 +63,5 @@ Best Friends Animal Society - Salt Lake City, UT | Greeter and Cat Care Voluntee
 * Introduced visitors to the shelter, creating a welcoming environment to all patrons. Clearly communicated the layout and facilities of the shelter and directed visitors to appropriate staff members when needed for administrative tasks.
 * Maintained the cleanliness of cat and shelter areas, safeguarding health and safety of animals, visitors, and staff by studying and implementing contagion control best practices.
 
-## Connect with me!
-
-silge.g@northeastern.edu 
-
-[LinkedIn](https://www.linkedin.com/in/grace-silge/)
 
 
