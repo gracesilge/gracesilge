@@ -51,18 +51,13 @@ Wayfair - Boston, MA | Software Engineering Co-op	| Jan 2026 - Sep 2026
 * Spearheaded integration with third party vendor, completing deliverables ahead of schedule and enabling the addition of over 10,000  syndicated reviews to Wayfair site within 1 month.
 * Utilized agile methodologies to complete work in a timely, efficient manner, collaborated using GitHub, developed products in Java, SQL, and Python and maximized efficiency using GenAI powered development tools.
 
+Northeastern University Admissions - Boston, MA | Husky Ambassador | Sep 2025 - Present
+
+* Conducted tours showcasing the Boston campus to groups of 10-30 prospective students and families, communicating effectively with people of many backgrounds and conveying personal experiences in an engaging manner.
+* Welcomed prospective students and families, addressing inquiries in a transparent and positive manner and ensuring a pleasant experience.
+
 YMCA of Northern Utah - Salt Lake City, UT | Counselor, Specialist, Unit Leader | 2023 - 2025
 
 * Supervised and mentored groups of 8–50 children in structured outdoor activities, fostering teamwork, creativity, and confidence.
 * Ensured a safe, inclusive, and educational environment by managing risk, addressing conflicts, and adapting activities to diverse needs.
 * Collaborated with a team of 40 staff to plan programs, coordinate schedules, and deliver positive camp experiences.
-
-NULondon Admissions - London, UK | Student Ambassador | Nov 2024 - May 2025
-
-* Counseled groups of 2-10 incoming students on university life, communicating effectively with people of many backgrounds and conveying personal experiences in an engaging manner.
-* Executed events involving 20-150 participants, including speaking on panels and directing foot traffic to enhance the university’s admissions process.
-
-Posit PBC - Remote Work | E-commerce worker | May 2020 - March 2024
-
-* Assembled and delivered 2-20 e-commerce orders a week, increasing company connections with the consumer base.
-* Maintained inventory to ensure efficient and accurate delivery of products.
