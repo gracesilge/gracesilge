@@ -1,7 +1,7 @@
 ## Hi there! I'm Grace Silge
 
-I’m a 2nd year Computer Science and Philosophy combined major at Northeastern University. I am interested in responsible AI and software development and would love to work in the field of AI Ethics. I have been programming for 10 years, and have experience in Java, Python, and R. 
-I’m currently looking for a full-time internship from January - June 2026 where I can grow my skills and have a positive impact on the world. 
+I’m a 3rd year Computer Science and Philosophy combined major at Northeastern University. I am interested in responsible AI and software development and would love to work in the field of AI Ethics. I have been programming for 11 years, and have experience in Java, SQL, Python, PHP, and R. 
+I’m currently looking for a full-time internship from January - June 2027 where I can grow my skills and have a positive impact on the world. 
 
 ## Connect with me!
 
@@ -10,14 +10,22 @@ silge.g@northeastern.edu
 [LinkedIn](https://www.linkedin.com/in/grace-silge/)
 
 ## Technical Knowledge
-Programming Languages:  Java, Python, Kotlin, R
+Programming Languages: Java, SQL, Python, PHP, Kotlin, R
 
 Data Science: pandas, tidyverse
 
-Tools: Microsoft Office, Git/GitHub, VS Code, IntelliJ IDEA, RStudio, Quarto
+Tools: Cursor, Devin, Google Cloud Platform, Git/GitHub, VS Code, IntelliJ IDEA, Git Copilot, RStudio, Quarto
 
 
 ## Projects
+
+[Website creation tool](http://github.com/SGAOperations/website-development) | Developer	| Feb 2026 - Present
+* Collaborated with developers of varying experience levels to create drag and drop website editor for use by client web management team, taking on both a learning and mentoring role.
+* Developed features and improvements using Typescript, ReactJS, TailwindCSS, and React Puck.
+
+[Resolution practice app](http://resolution.streamlit.app) | Developer | Nov 2025 - Present
+* Ideated, designed, and developed an app to support advanced logic students’ learning of resolution logic, an area that previously lacked support for exploration and studying.
+* Deployed app using Streamlit via Python, minimizing code reuse by learning and utilizing outside libraries.
 
 [SMART: “System for Materials and Automatic Reminder Texts”](https://github.com/gracesilge/SMART) | Developer | September - November 2023
 
@@ -37,6 +45,12 @@ Tools: Microsoft Office, Git/GitHub, VS Code, IntelliJ IDEA, RStudio, Quarto
 
 ## Work Experience
 
+Wayfair - Boston, MA | Software Engineering Co-op	| Jan 2026 - Sep 2026
+
+* Identified and resolved legacy bugs, partnering with analytics and business partners to halt over $10,000 of inefficient spend.
+* Spearheaded integration with third party vendor, completing deliverables ahead of schedule and enabling the addition of over 10,000  syndicated reviews to Wayfair site within 1 month.
+* Utilized agile methodologies to complete work in a timely, efficient manner, collaborated using GitHub, developed products in Java, SQL, and Python and maximized efficiency using GenAI powered development tools.
+
 YMCA of Northern Utah - Salt Lake City, UT | Counselor, Specialist, Unit Leader | 2023 - 2025
 
 * Supervised and mentored groups of 8–50 children in structured outdoor activities, fostering teamwork, creativity, and confidence.
@@ -52,16 +66,3 @@ Posit PBC - Remote Work | E-commerce worker | May 2020 - March 2024
 
 * Assembled and delivered 2-20 e-commerce orders a week, increasing company connections with the consumer base.
 * Maintained inventory to ensure efficient and accurate delivery of products.
-
-## Volunteer Experience
-Salt Lake City Public Library - Salt Lake City, UT | Teen Volunteer| June 2018 - May 2024
-* Marketed reading challenges to customers of various ages and backgrounds. Was a top performer in outreach, and enrolled dozens of patrons in reading programs.
-* Contributed feedback about teen library activities, supporting the creation of a Teen Book club and assisting in the planning and execution of 1-2 unique themed events annually.
-
-Best Friends Animal Society - Salt Lake City, UT | Greeter and Cat Care Volunteer| September  2022 - May 2023
-
-* Introduced visitors to the shelter, creating a welcoming environment to all patrons. Clearly communicated the layout and facilities of the shelter and directed visitors to appropriate staff members when needed for administrative tasks.
-* Maintained the cleanliness of cat and shelter areas, safeguarding health and safety of animals, visitors, and staff by studying and implementing contagion control best practices.
-
-
-
